@@ -7,12 +7,6 @@ c
 af
 a
 f
-asf
-a
-f
-asf
-as
-f
-afs
-as
-f
+
+
+let aVariable = "sfljhasdkl"
